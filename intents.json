@@ -1,0 +1,16 @@
+{"intents" : [
+    {"tags" : "greetings",
+    "patterns" : ["hello", "hey", "hi", "good day", "greetings", "what's up" ],
+    "responces" : ["Hello !", "Hey!", "How are you", " what can i do for you"]
+},
+
+    {"tags" : "goodbye" , 
+    "patterns" : ["cya", "see you later", "GoodBye", "Bye", "Have a good day", "see ya"],
+    "responces" : ["Thank you for interacting", "See you later ", "have a good day sir"]
+},
+
+    {"tags" : "age" ,
+    "patterns" : ["how old", "how old are you", "what is your age", "age?"],
+    "responces" : ["I am an Ai machine i don't have any age"]}
+
+]}
